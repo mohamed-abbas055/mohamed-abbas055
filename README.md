@@ -1,16 +1,20 @@
-## Hi there 👋
+# Mohamed Ahmed Abbas
 
-<!--
-**mohamed-abbas055/mohamed-abbas055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Student 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+- Currently focusing on learning **Backend Development**.
+
+---
+
+##  Technical Skills
+* **Programming Languages:** C++, C#
+* **Core Concepts:** Object-Oriented Programming (OOP), Data Structures
+
+---
+
+##  Currently Learning
+* Back-End Development technologies and tools.
+* Advanced programming principles.
