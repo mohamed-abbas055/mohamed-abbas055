@@ -1,10 +1,11 @@
 # Hello, I'm Mohamed  Abbas
 
-CS Student level 1
-
 ---
 
 ##  About Me
+
+- CS Student level 1
+
 - Currently focusing on learning **Backend Development**.
 
 ---
