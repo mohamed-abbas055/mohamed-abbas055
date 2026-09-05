@@ -4,7 +4,7 @@
 
 ##  About Me
 
-- CS Student level 1
+- CS Student level 2
 
 - Currently focusing on learning **Backend Development**.
 
